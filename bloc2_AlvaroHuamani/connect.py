@@ -1,6 +1,6 @@
 import psycopg2
 
-def connectio_db():
+def connection_db():
     conn = psycopg2.connect(
         database="all_penjat",
         password="pass",
