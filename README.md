@@ -14,7 +14,7 @@ Comprobando la conexión con este archivo, he agregado un print, para confirmarl
 Insercion del registro del formato csv a la Base de Datos.
 
 
-![Captura de pantalla](SGE_BLOC2PYTHON&POSTGRES_SS/2025016.png)
+![Captura de pantalla](SGE_BLOC2PYTHON&POSTGRES_SS/20250116.png)
 
 
 ### 230125
