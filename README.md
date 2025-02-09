@@ -79,7 +79,7 @@ Con delete_registre, elimino las filas que contengan el nombre 'Estefania'
 'Roger'
 
 
-![Captura de pantalla psycopg0 main.py] (home/isard/SGE_DAMM/SGE_BLOC2/SGE_BLOC2PYTHON&POSTGRES_SS/20250213_3.png)
+![Captura de pantalla psycopg0 main.py](home/isard/SGE_DAMM/SGE_BLOC2/SGE_BLOC2PYTHON&POSTGRES_SS/20250213_3.png)
 
 
 'Alvaro' tambien.
@@ -87,7 +87,7 @@ Con delete_registre, elimino las filas que contengan el nombre 'Estefania'
 ### RESULTADO FINAL
 
 
-![Captura de pantalla psycopg0 main.py] (home/isard/SGE_DAMM/SGE_BLOC2/SGE_BLOC2PYTHON&POSTGRES_SS/20250213_4.png)
+![Captura de pantalla psycopg0 main.py](home/isard/SGE_DAMM/SGE_BLOC2/SGE_BLOC2PYTHON&POSTGRES_SS/20250213_4.png)
 
 
 
