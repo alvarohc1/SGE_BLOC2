@@ -4,11 +4,11 @@ def read_reg():
     conn= connect.connection_db()
     cursor = conn.cursor()
 
-    sql_read= "SELECT * FROM Clientes"
+    sql_read= "SELECT * FROM ClientesFinal"
 
     cursor.execute(sql_read)
     conn.commit()
 
     results = cursor.fetchall()
-
-    return results 
+    print(results)
+    

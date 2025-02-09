@@ -6,13 +6,13 @@ def create_tables():
         password="pass",
         user="user",
         host="localhost",
-        port="5432"
+        port="5433"
     )
 
     cursor = conn.cursor()
     
     sql_clients = '''
-        CREATE TABLE Clientes (
+        CREATE TABLE ClientesFinal (
         Nombre_Cliente VARCHAR(100),
         Dirección_Cliente VARCHAR(200),
         Teléfono_Cliente VARCHAR(100),
